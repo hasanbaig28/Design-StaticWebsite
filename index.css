@@ -1,0 +1,168 @@
+.nav-bg {
+    background-color: #0C0521;
+}
+
+#nav-costume1 {
+    color: #ffffff;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+#nav-costume2 {
+    color: #ffffff;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+#nav-costume3 {
+    color: #ffffff;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+#nav-costume4 {
+    color: #ffffff;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+#nav-costume5 {
+    color: #ffffff;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 160px;
+}
+
+.banner-bg {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-main-heading {
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.banner-main-heading-span {
+    color: #FFDDA9;
+    font-family: roboto;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.banner-main-para {
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.button-sign-up {
+    height: 60px;
+    width: 200px;
+    font-family: roboto;
+    background-color: #FFDDA9;
+    color: #0C0521;
+    border-radius: 25px;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+
+
+
+
+.bg-page3 {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.d-and-d-section-image {
+    height: 200px;
+    width: 200px;
+}
+
+.d-and-d-section-heading {
+    color: #323f4b;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.d-and-d-section-para {
+    color: #7b8794;
+    font-family: roboto;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+.bg {
+    background-color: #ffffff;
+}
+
+.tool-sec-image {
+    height: 300px;
+
+}
+
+.tool-sec-heading {
+    color: #323f4b;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.tool-sec-para {
+    color: #7b8794;
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+
+.container-feature-sec {
+    background-color: white;
+    background-size: cover;
+}
+
+.features-sec-heading {
+    color: #323f4b;
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.features-sec-para {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.image {
+    height: 80px;
+    width: 80px;
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.sub-para {
+    color: #7b8794;
+    font-family: roboto;
+    font-size: 12px;
+    font-weight: 600;
+}
